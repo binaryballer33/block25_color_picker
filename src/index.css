@@ -51,26 +51,26 @@ body {
 
 /* colors */
 .red {
-  background-color: #cf000f;
+  background-color: #cf000f !important;
 }
 .orange {
-  background-color: #eb6b56;
+  background-color: #eb6b56 !important;
 }
 .yellow {
-  background-color: #ffc153;
+  background-color: #ffc153 !important;
 }
 .green {
-  background-color: #27ae60;
+  background-color: #27ae60 !important;
 }
 .blue {
-  background-color: #1d4fda;
+  background-color: #1d4fda !important;
 }
 .violet {
-  background-color: #462446;
+  background-color: #462446 !important;
 }
 .black {
-  background-color: #000000;
+  background-color: #000000 !important;
 }
 .white {
-  background-color: #ffffff;
+  background-color: #ffffff !important;
 }
